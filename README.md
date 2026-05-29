@@ -19,10 +19,12 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 <!---LeetCode Topics End-->
