@@ -17,6 +17,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,4 +27,12 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
