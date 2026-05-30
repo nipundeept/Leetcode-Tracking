@@ -22,6 +22,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0137-single-number-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0137-single-number-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
