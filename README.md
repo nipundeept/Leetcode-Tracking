@@ -17,6 +17,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
@@ -92,6 +93,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
