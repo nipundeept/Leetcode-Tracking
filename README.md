@@ -26,6 +26,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -67,6 +68,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0137-single-number-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0033-search-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +99,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
