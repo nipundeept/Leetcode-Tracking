@@ -88,6 +88,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0021-merge-two-sorted-lists](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0206-reverse-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +121,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
