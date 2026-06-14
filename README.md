@@ -89,6 +89,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0203-remove-linked-list-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0707-design-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -125,4 +127,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0707-design-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
