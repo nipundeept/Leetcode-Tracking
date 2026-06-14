@@ -1,5 +1,6 @@
 class Solution {
     public int pairSum(ListNode head) {
+        //brute
         int size = 0;
         ListNode curr = head;
         while (curr != null) {
