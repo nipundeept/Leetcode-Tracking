@@ -10,20 +10,18 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
+        //optimal O(n) approach using tortoise and hare algorithm in one pass.
+        if (head == null || head.next == null) return null;
         ListNode dummy = new ListNode(0);
         dummy.next = head;
-        ListNode curr = head;
-        int n = 0;
-        while (curr != null) {
-            n++;
-            curr = curr.next;
+        ListNode slow = dummy;
+        ListNode fast = head; //a step ahead from the slow pointer. As fast reaches the end, slow will land on (mid - 1)th node
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        int mid = n / 2;
-        curr = dummy;
-        for (int i = 0; i < mid; i++) {
-            curr = curr.next;
-        }
-        curr.next = curr.next.next;
+        //slow is now on (mid - 1)th node
+        slow.next = slow.next.next; //changing the linking of the next node to the next next node (bypass maneuver)
         return dummy.next;
     }
 }
