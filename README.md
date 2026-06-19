@@ -62,6 +62,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0048-rotate-image/) | Medium |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3099-harshad-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3099-harshad-number/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -98,6 +99,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0876-middle-of-the-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
