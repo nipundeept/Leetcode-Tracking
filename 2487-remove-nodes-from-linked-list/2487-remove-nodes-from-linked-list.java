@@ -11,7 +11,7 @@
 class Solution {
     public ListNode removeNodes(ListNode head) {
         //using Monotonic stack
-        Stack<ListNode> st = new Stack<>();
+        Deque<ListNode> st = new ArrayDeque<>();
         ListNode curr = head;
         while (curr != null) {
             while (!st.isEmpty() && curr.val > st.peek().val) {
