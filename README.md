@@ -42,6 +42,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -102,6 +103,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0021-merge-two-sorted-lists](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -133,6 +135,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
