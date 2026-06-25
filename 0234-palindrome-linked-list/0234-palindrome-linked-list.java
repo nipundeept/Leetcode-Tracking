@@ -10,20 +10,31 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        //using a data structure O(n) space and O(n) time
-        Deque<Integer> st = new ArrayDeque<>();
-        ListNode curr = head;
-        while (curr != null) {
-            st.push(curr.val);
-            curr = curr.next;
+        if (head.next == null) {
+            return true;
         }
-        curr = head;
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        //slow is pointing to the mid of the linked list
+        ListNode rev = null;
+        ListNode curr = slow;
         while (curr != null) {
-            if (curr.val != st.peek()) {
+            ListNode temp = curr.next;
+            curr.next = rev;
+            rev = curr;
+            curr = temp;
+        }
+        ListNode check = rev;
+        curr = head;
+        while (check != null) {
+            if (check.val != curr.val) {
                 return false;
             }
             curr = curr.next;
-            st.pop();
+            check = check.next;
         }
         return true;
     }
