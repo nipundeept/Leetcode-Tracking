@@ -1,6 +1,6 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        //Kadanne's algorithm : At every new index, we have two possibilities (i. To start afresh from the current element or append the current element with the previous best sum)
+        //Kadane's algorithm : At every new index, we have two possibilities (i. To start afresh from the current element or append the current element with the previous best sum)
         int max_sum = nums[0];
         int curr_sum = nums[0];
         for (int i = 1; i < nums.length; i++) {
