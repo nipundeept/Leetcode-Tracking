@@ -35,6 +35,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -46,6 +47,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0142-linked-list-cycle-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -204,4 +206,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
