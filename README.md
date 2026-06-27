@@ -117,6 +117,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0707-design-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
