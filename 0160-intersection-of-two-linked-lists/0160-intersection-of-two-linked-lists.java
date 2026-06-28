@@ -11,6 +11,7 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        //uses extra space, storing the references of one list in a set and comparing them with another list
         Set<ListNode> st = new HashSet<>();
         ListNode curr = headA;
         while (curr != null) {
