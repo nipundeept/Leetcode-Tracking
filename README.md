@@ -246,6 +246,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +256,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,10 +266,12 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 <!---LeetCode Topics End-->
