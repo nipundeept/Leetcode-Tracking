@@ -30,6 +30,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -112,6 +113,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
