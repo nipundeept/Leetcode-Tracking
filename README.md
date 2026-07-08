@@ -82,6 +82,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0231-power-of-two](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3099-harshad-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3099-harshad-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -235,6 +236,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
