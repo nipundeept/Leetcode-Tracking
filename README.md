@@ -139,6 +139,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
@@ -178,6 +179,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
