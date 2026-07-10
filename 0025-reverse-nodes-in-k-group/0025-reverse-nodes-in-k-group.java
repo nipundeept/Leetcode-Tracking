@@ -18,7 +18,7 @@ class Solution {
         for (ListNode temp = head; temp != null; temp = temp.next)
             count++;
         int groups = count / k; //number of groups is equal to total nodes / k
-        ListNode dummy = new ListNode(-1, head); //for returning the value of modified list
+        ListNode dummy = new ListNode(-1, head); //ensures every group has a previous node
         ListNode lastTail = dummy; //point towards the last tail of the previous group
         ListNode curr = head; //points to first value of fresh group
         for (int group = 0; group < groups; group++) {
@@ -31,12 +31,12 @@ class Solution {
                 rev = curr;
                 curr = temp;
             }
-            //rev will point towards the last node of the group being reversed (in original list)
-            //curr will point towards the next value of that in the original list
+            //rev will point towards the new head of the list
+            //curr will point towards the first node of the next group (in original list)
             lastTail.next = rev;
             //anchoring the reversed list with the remaining list
             tail.next = curr;
-            //updating the last tail of the list
+            // Prepare for the next group
             lastTail = tail; 
         }
         return dummy.next;
