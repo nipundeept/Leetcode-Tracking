@@ -33,6 +33,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -141,6 +142,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0328-odd-even-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -217,6 +219,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
@@ -231,6 +234,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
