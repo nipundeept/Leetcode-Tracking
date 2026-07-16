@@ -1,11 +1,12 @@
 class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
-        vector<long long> prefixGcd;
-        int maxElem = INT_MIN;
-        for (int i = 0; i < nums.size(); i++) {
+        int n = nums.size();
+        vector<int> prefixGcd(n);
+        int maxElem = 0; //since constraint mentions nums[i] is greater than or equal to 1
+        for (int i = 0; i < n; i++) {
             maxElem = max(maxElem, nums[i]);
-            prefixGcd.push_back(__gcd(nums[i], maxElem));
+            prefixGcd[i] = (__gcd(nums[i], maxElem));
         }
         sort(prefixGcd.begin(), prefixGcd.end());
         long long sum = 0; int left = 0, right = prefixGcd.size() - 1;
