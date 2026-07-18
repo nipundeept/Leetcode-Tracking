@@ -24,6 +24,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -52,6 +53,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -216,6 +218,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Design
 | Problem Name | Difficulty |
