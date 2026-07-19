@@ -25,6 +25,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -109,6 +110,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0231-power-of-two/) | Easy |
@@ -324,4 +326,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0796-rotate-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
