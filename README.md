@@ -37,6 +37,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -205,6 +206,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
@@ -225,6 +227,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0048-rotate-image](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Design
 | Problem Name | Difficulty |
