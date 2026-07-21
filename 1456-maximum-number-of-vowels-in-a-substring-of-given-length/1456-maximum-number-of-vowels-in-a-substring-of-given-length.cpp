@@ -5,21 +5,25 @@ public:
         int ans = 0;
         //for first window (preparing the window)
         for (int i = 0; i < k; i++) {
-            if (s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
+            if (checkVowel(s[i])) {
                 ans++;
             }
         }
         int curr = ans;
         //for next n - k windows
         for (int i = k; i < s.size(); i++){ 
-            if (s[i - k] == 'a' || s[i - k] == 'e' || s[i - k] == 'i' || s[i - k] == 'o' || s[i - k] == 'u') {
+            if (checkVowel(s[i - k])) {
                 curr--;
             }
-            if (s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
+            if (checkVowel(s[i])) {
                 curr++;
             }
             ans = max(ans, curr);
         }
         return ans;
+    }
+
+    bool checkVowel(char ch) {
+        return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
     }
 };
