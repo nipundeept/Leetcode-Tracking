@@ -39,6 +39,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -111,6 +112,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
