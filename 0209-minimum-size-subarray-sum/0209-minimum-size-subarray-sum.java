@@ -16,6 +16,6 @@ class Solution {
             }
             j++;
         }
-        return (min == Integer.MAX_VALUE) ? 0 : min;
+        return (min == Integer.MAX_VALUE) ? 0 : min; //if minimum doesn't change, return 0
     }
 }
