@@ -59,6 +59,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0141-linked-list-cycle/) | Easy |
@@ -114,6 +115,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -226,6 +228,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0796-rotate-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
