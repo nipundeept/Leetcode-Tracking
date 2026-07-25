@@ -109,6 +109,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3280-convert-date-to-binary](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -301,6 +302,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
