@@ -36,6 +36,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
@@ -99,6 +100,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0050-powx-n](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -300,6 +302,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3536-maximum-product-of-two-digits/) | Easy |
