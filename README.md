@@ -44,6 +44,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -307,6 +308,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -362,4 +364,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
