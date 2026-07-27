@@ -14,7 +14,7 @@ public:
                 }
                 left++;
             }
-            res = max(res, right - left);
+            res = max(res, right - left); //(right - left + 1) - 1, we need to delete that element from the count, so the size decreases by 1
         }
         return res;
     }
