@@ -46,6 +46,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -96,6 +97,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0055-jump-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0055-jump-game/) | Medium |
 | [0338-counting-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1004-max-consecutive-ones-iii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
