@@ -116,6 +116,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2443-sum-of-number-and-its-reverse](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3099-harshad-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3099-harshad-number/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -218,6 +219,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0055-jump-game/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
