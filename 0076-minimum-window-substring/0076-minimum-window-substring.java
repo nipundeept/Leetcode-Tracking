@@ -24,7 +24,7 @@ class Solution {
             //shrinking the window while it is valid
             while (formed == required) {
                 char ch2 = s.charAt(left);
-                if ((right - left + 1) < min_length) { //if the current window is strictly greater than previous window
+                if ((right - left + 1) < min_length) { //if the current window is strictly lesser than previous window, we update it
                     min_length = right - left + 1;
                     res = s.substring(left, right + 1);
                 }
