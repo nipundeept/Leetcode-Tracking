@@ -18,6 +18,9 @@ class Solution {
             }
             atMostK += right - left + 1;
         }
+        if (k == 0) {
+            return atMostK;
+        }
         left = 0;
         int atMostKMinus1 = 0;
         count = 0;
