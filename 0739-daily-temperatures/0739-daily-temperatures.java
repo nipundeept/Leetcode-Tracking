@@ -4,6 +4,7 @@ class Solution {
         int[] result = new int[n];
         Stack<Integer> st = new Stack<>();
         for (int i = n - 1; i >= 0; i--) {
+            //maintaining the monotonicity of the stack
             while (!st.isEmpty() && temperatures[i] >= temperatures[st.peek()]) {
                 st.pop();
             }
