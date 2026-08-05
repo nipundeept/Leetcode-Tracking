@@ -300,6 +300,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0707-design-linked-list/) | Medium |
+| [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +310,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0234-palindrome-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -328,6 +330,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Counting
@@ -433,4 +436,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0877-stone-game/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
