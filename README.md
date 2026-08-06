@@ -52,6 +52,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -317,6 +318,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
@@ -338,6 +340,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
