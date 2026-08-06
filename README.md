@@ -138,6 +138,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3280-convert-date-to-binary](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -355,6 +356,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2443-sum-of-number-and-its-reverse](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
