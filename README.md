@@ -44,6 +44,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -117,6 +118,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0877-stone-game/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -320,6 +322,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -343,6 +346,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
