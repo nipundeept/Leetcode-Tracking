@@ -4,7 +4,7 @@ public:
     /* few optimisations and corrections
     * make one boundary strict and other non-strict
     * Integer overflow and modulus
-    * Pass by value(for better performance)
+    * Pass by reference(for better performance)
     */
     int sumSubarrayMins(vector<int>& arr) {
         vector<int> pse = previousSmallerHelper(arr);
