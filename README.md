@@ -29,6 +29,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0084-largest-rectangle-in-histogram](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0137-single-number-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0137-single-number-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -126,6 +127,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0002-add-two-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0050-powx-n/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0231-power-of-two/) | Easy |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
@@ -317,6 +319,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0094-binary-tree-inorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
