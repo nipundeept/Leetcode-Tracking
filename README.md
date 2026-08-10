@@ -25,6 +25,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -195,6 +196,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -309,6 +311,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0048-rotate-image](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Design
