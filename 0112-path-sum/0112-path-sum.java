@@ -15,17 +15,28 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        //leap of faith : root's left and right subtree tells me if they have the valid pathSum or not
-        //base case 
+        boolean res = helper(root, targetSum, 0);
+        return res;
+    }
+    private boolean helper(TreeNode root, int target, int current) {
         if (root == null) {
-            return false; //null node cannot form a node to leaf path, so we return false
+            return false;
         }
-        //special case: if we are at leaf, we are supposed to check if targetSum is equal to the current value or not
-        if (root.left == null && root.right == null) {
-            return (targetSum == root.val);
+        current = current + (root.val);
+        if (root.right == null && root.left == null) {
+            if (current == target) {
+                return true;
+            }
+            return false;
         }
-        boolean leftSubtree = hasPathSum(root.left, targetSum - root.val);
-        boolean rightSubtree = hasPathSum(root.right, targetSum - root.val);
-        return leftSubtree || rightSubtree; //if either of the path is valid, it gives a valid pass to it's parent
+        boolean left = helper(root.left, target, current);
+        if (left == true) {
+            return true;
+        }
+        boolean right = helper(root.right, target, current);
+        if (right == true) {
+            return true;
+        }
+        return false;
     }
 }
