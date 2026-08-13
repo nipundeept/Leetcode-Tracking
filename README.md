@@ -302,6 +302,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0003-longest-substring-without-repeating-characters](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0076-minimum-window-substring/) | Hard |
+| [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0394-decode-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -420,6 +421,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -431,6 +433,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -442,6 +445,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -462,6 +466,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
+| [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
