@@ -65,6 +65,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -173,6 +174,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1248-count-number-of-nice-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -212,6 +215,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0713-subarray-product-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
