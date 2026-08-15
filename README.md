@@ -424,6 +424,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
@@ -437,6 +438,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
@@ -450,6 +452,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
