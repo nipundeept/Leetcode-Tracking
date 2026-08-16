@@ -313,6 +313,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0796-rotate-string/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -430,6 +431,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -445,6 +447,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -460,6 +463,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -483,6 +487,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
