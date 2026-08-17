@@ -69,6 +69,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -99,6 +100,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -177,6 +179,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Bit Manipulation
