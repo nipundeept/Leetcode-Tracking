@@ -29,9 +29,9 @@ class Solution {
         if (root.left == null && root.right == null) {
             if (palindromicPermutation(freq)) {
                 count++;
-                freq[root.val]--;
-                return;
             }
+            freq[root.val]--;
+            return;
         }
         helper(root.left, freq);
         helper(root.right, freq);
