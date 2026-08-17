@@ -191,6 +191,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0231-power-of-two](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0338-counting-bits/) | Easy |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -436,6 +437,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +454,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +471,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +480,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
