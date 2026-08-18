@@ -530,4 +530,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0020-valid-parentheses/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
