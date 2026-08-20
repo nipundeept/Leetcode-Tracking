@@ -72,6 +72,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -306,6 +307,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
