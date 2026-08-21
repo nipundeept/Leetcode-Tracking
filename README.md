@@ -431,6 +431,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
@@ -455,6 +456,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
@@ -479,6 +481,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
@@ -502,6 +505,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
