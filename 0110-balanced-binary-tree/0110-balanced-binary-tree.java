@@ -16,7 +16,7 @@
 class Solution {
     boolean result = true;
     public boolean isBalanced(TreeNode root) {
-        int val = depthHelper(root);
+        depthHelper(root);
         return result;
     }
     private int depthHelper(TreeNode root) {
