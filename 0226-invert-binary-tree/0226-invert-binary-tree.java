@@ -16,13 +16,13 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
         if (root == null) {
-            return root;
+            return null;
         }
-        TreeNode left = invertTree(root.left); //leap of faith (trusting the recursion to give us the value of inverted left subtree)
-        TreeNode right = invertTree(root.right); //trusting the recursion to give us the value of inverted right subtree
-        //connecting our expectation to faith at the current node
-        root.left = right;
-        root.right = left;
+        TreeNode left = invertTree(root.left);
+        TreeNode right = invertTree(root.right);
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
         return root;
     }
 }
