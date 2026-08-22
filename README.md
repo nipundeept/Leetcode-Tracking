@@ -434,6 +434,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0094-binary-tree-inorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
@@ -488,6 +489,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0094-binary-tree-inorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
@@ -514,6 +516,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0100-same-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0404-sum-of-left-leaves/) | Easy |
