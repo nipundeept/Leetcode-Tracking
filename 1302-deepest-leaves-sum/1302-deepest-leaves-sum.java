@@ -30,8 +30,8 @@ class Solution {
                     queue.offer(curr.right);
                 }
                 tempSum += curr.val;
-                sum = tempSum;
             }
+            sum = tempSum;
         }
         return sum;
     }
