@@ -24,11 +24,8 @@ class Solution {
         if (high < root.val) {
             return trimBST(root.left, low, high);
         }
-        if (root.val >= low && root.val <= high) {
             root.left = trimBST(root.left, low, high);
             root.right = trimBST(root.right, low, high);
             return root;
-        }
-        return null;
     }
 }
