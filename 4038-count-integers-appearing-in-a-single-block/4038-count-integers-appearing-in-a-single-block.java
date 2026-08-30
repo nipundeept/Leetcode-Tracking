@@ -5,27 +5,19 @@ class Solution {
         Set<Integer> seen = new HashSet<>();
         Set<Integer> invalid = new HashSet<>();
 
-        int prev = nums[0];
+        int prev = -1;
 
-        for (int i = 1; i < nums.length; i++) {
-            int num = nums[i];
-
-            // We are starting a new block
+        for (int num : nums) {
+          
             if (num != prev) {
-                // If this number appeared in an earlier block,
-                // it is no longer special
                 if (seen.contains(num)) {
                     invalid.add(num);
                 }
 
-                seen.add(prev);
+                seen.add(num);
             }
-
             prev = num;
         }
-
-        // Add the final block's number
-        seen.add(prev);
 
         return seen.size() - invalid.size();
     }
