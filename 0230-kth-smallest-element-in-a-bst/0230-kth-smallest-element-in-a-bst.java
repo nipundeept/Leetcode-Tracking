@@ -20,16 +20,16 @@ class Solution {
             return -1;
         }
         int left = kthSmallest(root.left, k);
+        if (left != -1) {
+            return left;
+        }
         count++;
         if (count == k) {
             return root.val;
         }
         int right = kthSmallest(root.right, k);
-        if (left == -1 && right != -1) {
+        if (right != -1) {
             return right;
-        }
-        if (right == -1 && left != -1) {
-            return left;
         }
         return -1;
     }
