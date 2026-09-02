@@ -469,6 +469,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0700-search-in-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -509,6 +510,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -552,6 +554,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0700-search-in-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
