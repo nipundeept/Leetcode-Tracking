@@ -36,10 +36,12 @@ class Solution {
         if (root == null) {
             return;
         }
-        helper(root.left, path);
-        helper(root.right, path);
         if (root.left == null && root.right == null) {
             path.add(root.val);
+            return;
         }
+        helper(root.left, path);
+        helper(root.right, path);
+ 
     }
 }
