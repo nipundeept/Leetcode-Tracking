@@ -82,6 +82,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
