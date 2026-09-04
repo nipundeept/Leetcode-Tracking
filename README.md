@@ -83,6 +83,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3843-first-element-with-unique-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2485-find-the-pivot-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
