@@ -34,6 +34,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
@@ -127,6 +128,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0191-number-of-1-bits/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -428,6 +430,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -615,6 +618,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
@@ -683,4 +687,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0701-insert-into-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0938-range-sum-of-bst/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
