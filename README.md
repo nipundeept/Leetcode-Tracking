@@ -37,6 +37,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -95,6 +96,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0141-linked-list-cycle](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
@@ -129,6 +131,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -409,6 +412,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -431,6 +435,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -619,6 +624,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
@@ -691,4 +697,9 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
