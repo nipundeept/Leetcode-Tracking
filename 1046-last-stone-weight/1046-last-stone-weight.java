@@ -12,6 +12,9 @@ class Solution {
                 maxHeap.offer(a - b);
             }
         }
-        return maxHeap.isEmpty() ? 0 : maxHeap.peek();
+        if (maxHeap.size() == 0) {
+            return 0;
+        }
+        return maxHeap.peek();
     }
 }
