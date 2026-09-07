@@ -69,6 +69,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -322,6 +323,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -629,6 +631,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
