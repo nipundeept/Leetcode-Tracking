@@ -101,6 +101,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0567-permutation-in-string/) | Medium |
@@ -338,6 +339,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0796-rotate-string/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -417,6 +419,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -440,6 +443,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -629,6 +633,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -708,4 +713,5 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
