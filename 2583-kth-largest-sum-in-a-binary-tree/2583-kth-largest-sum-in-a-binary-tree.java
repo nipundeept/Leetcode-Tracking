@@ -16,29 +16,32 @@
 class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
         Queue<TreeNode> queue = new ArrayDeque<>();
-        queue.offer(root);
-        List<Long> list = new ArrayList<>();
+        PriorityQueue<Long> minHeap = new PriorityQueue<>();
         int level = 0;
-        while(!queue.isEmpty()) {
-            int size = queue.size();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
             long sum = 0;
+            int size = queue.size();
             for (int i = 0; i < size; i++) {
                 TreeNode curr = queue.poll();
                 sum += curr.val;
-                if(curr.left != null) {
+                if (curr.left != null) {
                     queue.offer(curr.left);
                 }
                 if (curr.right != null) {
                     queue.offer(curr.right);
                 }
             }
-            list.add(sum);
             level++;
+            minHeap.offer(sum);
+            if (minHeap.size() > k) {
+                minHeap.poll();
+            }
         }
-        list.sort(Comparator.reverseOrder());
+        System.out.println(level);
         if (k > level) {
             return -1;
         }
-        return list.get(k - 1);
+        return minHeap.peek();
     }
 }
