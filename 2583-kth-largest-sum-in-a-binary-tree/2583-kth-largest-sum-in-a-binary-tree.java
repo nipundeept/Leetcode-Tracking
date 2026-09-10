@@ -38,7 +38,6 @@ class Solution {
                 minHeap.poll();
             }
         }
-        System.out.println(level);
         if (k > level) {
             return -1;
         }
