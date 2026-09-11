@@ -81,6 +81,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3731-find-missing-elements/) | Easy |
@@ -121,6 +122,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3120-count-the-number-of-special-characters-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -293,6 +295,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0394-decode-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +443,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2778-sum-of-squares-of-special-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
