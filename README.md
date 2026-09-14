@@ -498,6 +498,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -544,6 +545,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -588,6 +590,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
