@@ -171,6 +171,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2396-strictly-palindromic-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3099-harshad-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3099-harshad-number/) | Easy |
