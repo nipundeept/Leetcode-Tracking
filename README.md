@@ -343,6 +343,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -372,6 +373,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3798-largest-even-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3798-largest-even-number/) | Easy |
 ## Matrix
