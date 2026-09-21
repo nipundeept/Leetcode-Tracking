@@ -24,9 +24,9 @@ class Solution {
 
     }
 
-    private void dfs(int n, boolean[] visited, List<List<Integer>> adj) {
-        visited[n] = true;
-        for (int neighbor : adj.get(n)) {
+    private void dfs(int node, boolean[] visited, List<List<Integer>> adj) {
+        visited[node] = true;
+        for (int neighbor : adj.get(node)) {
             if (!visited[neighbor]) {
                 dfs(neighbor, visited, adj);
             }
