@@ -135,6 +135,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -576,6 +577,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -657,6 +659,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -779,6 +782,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
