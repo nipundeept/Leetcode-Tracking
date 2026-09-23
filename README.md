@@ -536,6 +536,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1609-even-odd-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1609-even-odd-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -584,6 +585,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,6 +638,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1609-even-odd-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1609-even-odd-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2331-evaluate-boolean-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
