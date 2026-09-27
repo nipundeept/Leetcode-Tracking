@@ -1,16 +1,19 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         int n = nums.length;
-        boolean[] found = new boolean[n + 1];
+        boolean[] visited = new boolean[n + 1];
         List<Integer> result = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            if (found[nums[i]]) {
-                result.add(nums[i]);
-            }
-            else {
-                found[nums[i]] = true;
-            }
-        }
+        dfs(nums, result, visited, n - 1);
         return result;
+    }
+    private void dfs(int[] arr, List<Integer> result, boolean[] visited, int n) {
+        if (n < 0) {
+            return;
+        }
+        if (visited[arr[n]]) {
+            result.add(arr[n]);
+        }
+        visited[arr[n]] = true;
+        dfs(arr, result, visited, n - 1);
     }
 }
