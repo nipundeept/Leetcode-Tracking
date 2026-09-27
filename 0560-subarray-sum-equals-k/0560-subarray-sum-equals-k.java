@@ -1,19 +1,19 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        map.put (0,1); //default value of the map
-        int current = 0;
+        //use prefix-sum + map to track the target's existence
+        int currentSum = 0;
         int count = 0;
-        for (int i = 0; i < nums.length; i++) {
-            current += nums[i];
-
-            int toFind = current - k;
-            if (map.containsKey(toFind)) {
-                count += map.get(toFind);
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, 1); //prefixSum starting with 0, and its occurence is once
+        for (int num : nums) {
+            currentSum += num;
+            int complement = currentSum - k; //prefixSum - k = target (Have we seen this complement prefix (checkpoint) before?)
+            if (map.containsKey(complement)) {  
+                count += map.get(complement); //if yes, the current subarray sum equals k, and count increases by the number of times we have visited that
             }
-            map.put(current, map.getOrDefault(current, 0) + 1);
+            map.put(currentSum, map.getOrDefault(currentSum, 0) + 1);
         }
+
         return count;
     }
 }
