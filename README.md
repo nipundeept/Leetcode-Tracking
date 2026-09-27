@@ -40,6 +40,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -108,6 +109,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -476,6 +478,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
