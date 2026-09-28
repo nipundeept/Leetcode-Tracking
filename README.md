@@ -375,6 +375,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1108-defanging-an-ip-address](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -420,6 +421,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -747,6 +749,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
