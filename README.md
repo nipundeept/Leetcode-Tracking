@@ -34,6 +34,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0150-evaluate-reverse-polish-notation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0162-find-peak-element/) | Medium |
+| [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -140,6 +141,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -395,6 +397,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -571,6 +574,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0144-binary-tree-preorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -673,6 +677,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0111-minimum-depth-of-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0513-find-bottom-left-tree-value/) | Medium |
