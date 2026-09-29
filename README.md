@@ -42,6 +42,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
