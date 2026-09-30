@@ -180,6 +180,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0231-power-of-two](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0367-valid-perfect-square/) | Easy |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
+| [0412-fizz-buzz](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0877-stone-game/) | Medium |
@@ -354,6 +355,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -371,6 +373,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0394-decode-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
+| [0412-fizz-buzz](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
