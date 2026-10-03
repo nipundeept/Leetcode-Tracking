@@ -723,6 +723,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
