@@ -21,6 +21,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0054-spiral-matrix/) | Medium |
@@ -721,6 +722,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
