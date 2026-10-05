@@ -386,6 +386,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0692-top-k-frequent-words](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0696-count-binary-substrings](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0856-score-of-parentheses/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -434,6 +435,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -775,6 +777,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0856-score-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Database
 | Problem Name | Difficulty |
