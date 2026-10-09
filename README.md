@@ -58,6 +58,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0877-stone-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1046-last-stone-weight/) | Easy |
@@ -414,6 +415,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0074-search-a-2d-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -711,6 +713,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1302-deepest-leaves-sum/) | Medium |
