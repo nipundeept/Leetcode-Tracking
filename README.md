@@ -47,6 +47,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -171,6 +172,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0338-counting-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -414,6 +416,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0073-set-matrix-zeroes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
@@ -705,6 +708,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0404-sum-of-left-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0542-01-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
