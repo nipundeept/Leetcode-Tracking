@@ -93,6 +93,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -268,6 +269,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
