@@ -627,6 +627,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -729,6 +730,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -762,6 +764,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0078-subsets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -871,6 +874,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -879,4 +883,8 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
