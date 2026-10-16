@@ -64,6 +64,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
@@ -157,6 +158,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Divide and Conquer
@@ -430,6 +432,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -638,6 +641,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0938-range-sum-of-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -741,6 +745,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1302-deepest-leaves-sum/) | Medium |
