@@ -44,6 +44,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0347-top-k-frequent-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0396-rotate-function/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0463-island-perimeter](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0506-relative-ranks/) | Easy |
@@ -430,6 +431,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0074-search-a-2d-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
+| [0463-island-perimeter](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
@@ -626,6 +628,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -734,6 +737,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0463-island-perimeter](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0542-01-matrix](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0542-01-matrix/) | Medium |
