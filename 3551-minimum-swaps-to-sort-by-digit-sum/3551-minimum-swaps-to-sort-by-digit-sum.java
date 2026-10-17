@@ -19,16 +19,11 @@ class Solution {
             return Integer.compare(a, b);
         });
 
-        int[] sorted = new int[n];
-        for (int i = 0; i < n; i++) {
-            sorted[i] = sortedTemp[i];
-        }
-
         int swap = 0;
         
         for (int i = 0; i < n; i++) {
-            while(nums[i] != sorted[i]) {
-                int correctIndex = map.get(sorted[i]);
+            while(nums[i] != sortedTemp[i]) {
+                int correctIndex = map.get(sortedTemp[i]);
 
                 int temp = nums[i];
                 nums[i] = nums[correctIndex];
