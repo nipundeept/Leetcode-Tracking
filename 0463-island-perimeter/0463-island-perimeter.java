@@ -5,17 +5,12 @@ class Solution {
         int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
         for (int i = 0; i < gridRow; i++) {
             for (int j = 0; j < gridCol; j++) {
-                int curr = grid[i][j];
-                if (curr == 1) {
+                if (grid[i][j] == 1) {
                     for (int[] direction : directions) {
                         int newRow = i + direction[0];
                         int newCol = j + direction[1];
-                        if (newRow < 0 || newCol < 0 || newRow >= gridRow || newCol >= gridCol) {
+                        if (newRow < 0 || newCol < 0 || newRow >= gridRow || newCol >= gridCol || grid[newRow][newCol] == 0)
                             perimeter += 1;
-                        }
-                        else if (grid[newRow][newCol] == 0) {
-                            perimeter += 1;
-                        }
                     }
                 }
             }
