@@ -162,6 +162,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0200-number-of-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -643,6 +644,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -749,6 +751,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0637-average-of-levels-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -894,6 +897,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -907,4 +911,12 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
