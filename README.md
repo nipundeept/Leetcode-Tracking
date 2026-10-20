@@ -591,6 +591,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -652,6 +653,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0938-range-sum-of-bst](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -711,6 +713,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -757,6 +760,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
