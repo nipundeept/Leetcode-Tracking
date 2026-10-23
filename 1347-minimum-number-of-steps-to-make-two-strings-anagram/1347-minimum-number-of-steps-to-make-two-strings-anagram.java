@@ -29,3 +29,26 @@ class Solution {
         return count;
     }
 }
+
+    /*
+    We can solve this using just one frequency array:
+    1. Increment the frequency for every character in s.
+    2. Decrement the frequency for every character in t.
+    3. Sum the positive deficits in t relative to s—equivalently, count how many characters in t must be replaced.
+    class Solution {
+        public int minSteps(String s, String t) {
+            int[] freq = new int[26];
+            for (int i = 0; i < s.length(); i++) {
+                freq[s.charAt(i) - 'a']++;
+                freq[t.charAt(i) - 'a']--;
+            }
+            int count = 0;
+            for (int f : freq) {
+                if (f > 0) {
+                    count += f;
+                }
+            }
+            return count;
+        }
+    }
+    */
