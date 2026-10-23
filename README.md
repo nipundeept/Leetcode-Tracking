@@ -102,6 +102,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3731-find-missing-elements/) | Easy |
@@ -261,6 +262,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0338-counting-bits/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
