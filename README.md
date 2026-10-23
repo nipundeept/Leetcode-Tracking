@@ -139,6 +139,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -414,6 +415,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1021-remove-outermost-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -508,6 +510,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0451-sort-characters-by-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3843-first-element-with-unique-frequency/) | Medium |
