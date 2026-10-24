@@ -211,6 +211,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1492-the-kth-factor-of-n](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2409-count-days-spent-together/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -422,6 +423,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2409-count-days-spent-together](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
