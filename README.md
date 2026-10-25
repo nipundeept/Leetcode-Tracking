@@ -68,6 +68,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -166,6 +167,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0695-max-area-of-island](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Divide and Conquer
@@ -447,6 +449,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -668,6 +671,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -774,6 +778,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1020-number-of-enclaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1020-number-of-enclaves/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
