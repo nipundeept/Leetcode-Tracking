@@ -103,6 +103,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -170,6 +171,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1254-number-of-closed-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +454,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1254-number-of-closed-islands](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1260-shift-2d-grid/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -682,6 +685,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -788,6 +792,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1609-even-odd-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1609-even-odd-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
