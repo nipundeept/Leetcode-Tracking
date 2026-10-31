@@ -135,6 +135,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0560-subarray-sum-equals-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0771-jewels-and-stones/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -415,6 +416,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0647-palindromic-substrings](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0696-count-binary-substrings](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0696-count-binary-substrings/) | Easy |
+| [0771-jewels-and-stones](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0856-score-of-parentheses/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
