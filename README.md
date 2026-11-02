@@ -362,6 +362,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0055-jump-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2697-lexicographically-smallest-palindrome](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -383,6 +384,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2697-lexicographically-smallest-palindrome](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -430,6 +432,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2409-count-days-spent-together](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2409-count-days-spent-together/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
