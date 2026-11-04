@@ -379,6 +379,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0160-intersection-of-two-linked-lists](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0647-palindromic-substrings/) | Medium |
 | [0696-count-binary-substrings](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0696-count-binary-substrings/) | Easy |
@@ -411,6 +412,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0022-generate-parentheses](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0076-minimum-window-substring/) | Hard |
 | [0257-binary-tree-paths](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0257-binary-tree-paths/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
