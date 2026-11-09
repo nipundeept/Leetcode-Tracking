@@ -8,8 +8,9 @@ class Solution {
 
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
-            if (map.get(num) == maxFreq + 1) list.add(num);
-            if (map.get(num) > maxFreq) {
+            int freq = map.get(num);
+            if (freq == maxFreq + 1) list.add(num);
+            if (freq > maxFreq) {
                 continue;
             }
         }
