@@ -46,9 +46,7 @@ public:
         if (count2 > threshold_freq) {
             result.push_back(cand2);
         }
-
-        sort(result.begin(), result.end());
-
+        
         return result;
     }
 };
