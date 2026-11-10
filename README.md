@@ -686,6 +686,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -797,6 +798,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0733-flood-fill](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -946,6 +948,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0547-number-of-provinces](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -975,4 +978,16 @@ The solutions in this repository are automatically synchronised immediately afte
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0229-majority-element-ii/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
