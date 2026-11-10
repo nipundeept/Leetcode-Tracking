@@ -3,8 +3,13 @@
  */
 int* productExceptSelf(int* nums, int numsSize, int* returnSize) {
 
-    int *rightPrefix, *leftPrefix, *result, curr;
+    int *result, curr;
     result = malloc(sizeof(int) * numsSize);
+
+    if (result == NULL) {
+        *returnSize = 0;
+        return NULL;
+    }
 
     curr = 1;
     for (int i = 0; i < numsSize; i++) {
