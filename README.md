@@ -101,6 +101,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
