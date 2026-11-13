@@ -18,6 +18,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -376,6 +377,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0402-remove-k-digits/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -384,6 +386,7 @@ The solutions in this repository are automatically synchronised immediately afte
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0061-rotate-list/) | Medium |
