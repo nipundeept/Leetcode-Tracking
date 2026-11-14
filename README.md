@@ -107,6 +107,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -279,6 +280,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3903-smallest-stable-index-i/) | Easy |
