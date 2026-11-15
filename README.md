@@ -84,6 +84,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -215,6 +216,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0877-stone-game](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1248-count-number-of-nice-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2409-count-days-spent-together/) | Easy |
@@ -304,6 +307,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0724-find-pivot-index](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
