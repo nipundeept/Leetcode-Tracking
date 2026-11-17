@@ -102,6 +102,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [2778-sum-of-squares-of-special-elements](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -295,6 +296,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [0338-counting-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/nipundeept/Leetcode-Tracking/tree/main/0645-set-mismatch/) | Easy |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nipundeept/Leetcode-Tracking/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Prefix Sum
