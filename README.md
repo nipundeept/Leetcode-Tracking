@@ -465,6 +465,7 @@ The solutions in this repository are automatically synchronised immediately afte
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nipundeept/Leetcode-Tracking/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2409-count-days-spent-together/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nipundeept/Leetcode-Tracking/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
